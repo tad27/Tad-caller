@@ -1,0 +1,6 @@
+{
+  "name": "iOS Secure Directory",
+  "description": "A production-grade, local-first iOS personal directory with SwiftData, CloudKit sync, and Face ID biometric security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
